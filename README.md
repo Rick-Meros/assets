@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sidekick-icon-transparent.png" alt="Companion Assets logo" height="96">
+  <img src=".github/assets/logo.png" alt="Companion Assets logo" height="96">
 </p>
 
 <h1 align="center">Companion Assets</h1>
