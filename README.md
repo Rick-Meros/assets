@@ -12,11 +12,13 @@ All three files are 1024 x 1024 PNG images with an alpha channel.
 
 | File | Purpose |
 |---|---|
-| `sidekick-icon-transparent.png` | Sidekick icon with a transparent background |
-| `sidekick-icon.png` | Sidekick icon, the "radiant 4-lobed star emblem with white background" version described in the latest commit message |
-| `companion-assistant-icon.png` | Companion assistant icon. At the time of writing it is byte-identical to `sidekick-icon.png`. |
+| `sidekick-icon-transparent.png` | Sidekick Aura mark, transparent background |
+| `sidekick-icon.png` | Sidekick Aura mark on a white background (approved by Rick 22 Nov 2026; replaced the four-lobed spark) |
+| `companion-assistant-icon.png` | Companion assistant icon. Byte-identical to `sidekick-icon.png`. |
 
 Nothing in the repository documents where these files are consumed, so check before renaming, moving or replacing one, because other projects may link to its public URL.
+
+Masters and usage rules for the Sidekick identity live in `meros-group/sidekick`, `brand/identity-20261122-aura/`.
 
 ## Using the assets
 
